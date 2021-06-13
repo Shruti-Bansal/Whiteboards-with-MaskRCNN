@@ -38,4 +38,4 @@ Steps:
 ![Image1](Results/image6.jpg) ![Image1_colored_whiteboard](Results/colored_wb_image6.png) ![Image1_mask](Results/mask_image6.png)
 ![Image2](Results/image13.jpg) ![Image2_colored_whiteboard](Results/colored_wb_image13.png) ![Image2_mask](Results/mask_image13.png)
 ![Image3](Results/image14.jpg) ![Image3_colored_whiteboard](Results/colored_wb_image14.png) ![Image3_mask](Results/mask_image14.png)
-![Image4](Results/image17.jpg) ![Image4_colored_whiteboard](Results/colored_image17.png) ![Image4_mask](Results/mask_image7.png)
+![Image4](Results/image17.jpg) ![Image4_colored_whiteboard](Results/colored_wb_image17.png) ![Image4_mask](Results/mask_image7.png)
